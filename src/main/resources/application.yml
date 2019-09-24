@@ -1,0 +1,17 @@
+server:
+  port: 8081
+ 
+spring:  datasource:
+            #  配置数据源操作类
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+#    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://localhost:3306/dailydrip
+    username: root
+    password: 123456    filters: stat,wall,log4j # druid监控
+    dbcp2:      min-idle: 5 # 数据库最小连接数
+      initial-size: 5 # 初始化提供连接数
+      max-total: 10 # 最大连接数
+      max-wait-millis: 2000 # 等待连接获取的最大时间
+
+    
