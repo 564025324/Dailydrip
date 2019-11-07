@@ -25,4 +25,9 @@ public class IndexController {
 	public String center() {
 		return "center/center";
 	}
+
+	@RequestMapping(value = "/excel")
+	public String excelIndex() {
+		return "excel/excel";
+	}
 }

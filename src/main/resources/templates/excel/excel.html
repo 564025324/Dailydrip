@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>娜娜小工具</title>
+<!-- 新 Bootstrap 核心 CSS 文件 -->
+<link
+	href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css"
+	rel="stylesheet">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<!-- 顶部菜单栏 -->
+			<div class="col-md-12">
+				<ul class="nav nav-pills">
+					<li class="active">此处为一个图片 <!-- <img alt="" src="/img/warehouselogo.jpg" /> -->
+					</li>
+					<li class="active"><a href="#">首页</a></li>
+					<li><a href="#">资料</a></li>
+					<li class="disabled"><a href="#">信息</a></li>
+					<li class="dropdown pull-right"><a class="dropdown-toggle"
+						data-toggle="dropdown" href="#">下拉</a>
+						<ul class="dropdown-menu">
+							<li><a href="#">操作</a></li>
+							<li><a href="#">设置栏目</a></li>
+							<li><a href="#">更多设置</a></li>
+							<li class="divider"></li>
+							<li><a href="#">分割线</a></li>
+						</ul></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<!-- 左侧菜单导航栏 -->
+			<div class="col-md-2">
+				<ul class="nav nav-list well">
+					<li class="nav-header">列表标题</li>
+					<li class="active"><a href="#">首页</a></li>
+					<li><a href="#">Excel小工具</a></li>
+
+					<li class="nav-header">功能列表</li>
+					<li><a href="#">资料</a></li>
+					<li><a href="#">设置</a></li>
+					<li class="divider"></li>
+					<li><a href="#">帮助</a></li>
+				</ul>
+			</div>
+			<div class="col-md-10">
+				<form class="form-inline">
+					<fieldset>
+						<legend>提取单元格数字</legend>
+					</fieldset>
+					<div class="form-group">
+						<label></label>
+						<button class="btn btn-info" name="importfile">选择文件</button>
+					</div>
+					<button type="submit" class="btn btn-default">提交</button>
+					<!-- 水平分割线 -->
+					<!-- <ul class="nav nav-list"><li class="divider"></li></ul> -->
+					<hr class="simple" color="#6f5499" />
+				</form>
+				<div class="row">
+					<div class="col-md-10">
+						<table class="table">
+							<thead>
+								<tr>
+									<th>编号</th>
+									<th>产品</th>
+									<th>交付时间</th>
+									<th>状态</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>1</td>
+									<td>TB - Monthly</td>
+									<td>01/04/2012</td>
+									<td>Default</td>
+								</tr>
+								<tr class="success">
+									<td>1</td>
+									<td>TB - Monthly</td>
+									<td>01/04/2012</td>
+									<td>Approved</td>
+								</tr>
+								<tr class="error">
+									<td>2</td>
+									<td>TB - Monthly</td>
+									<td>02/04/2012</td>
+									<td>Declined</td>
+								</tr>
+								<tr class="warning">
+									<td>3</td>
+									<td>TB - Monthly</td>
+									<td>03/04/2012</td>
+									<td>Pending</td>
+								</tr>
+								<tr class="info">
+									<td>4</td>
+									<td>TB - Monthly</td>
+									<td>04/04/2012</td>
+									<td>Call in to confirm</td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="center" align="center">
+							<ul class="pagination">
+								<li><a href="#">上一页</a></li>
+								<li><a href="#">1</a></li>
+								<li><a href="#">2</a></li>
+								<li><a href="#">3</a></li>
+								<li><a href="#">4</a></li>
+								<li><a href="#">7</a></li>
+								<li><a href="#">下一页</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span12"></div>
+		</div>
+	</div>
+
+</body>
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script
+	src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</html>
