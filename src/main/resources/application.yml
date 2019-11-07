@@ -1,17 +1,66 @@
+####################################################
+#
+#   Tomcat 服务配置
+#
+####################################################
 server:
-  port: 8081
- 
-spring:  datasource:
-            #  配置数据源操作类
-    type: com.alibaba.druid.pool.DruidDataSource
-    driver-class-name: com.mysql.jdbc.Driver
-#    driver-class-name: org.gjt.mm.mysql.Driver
-    url: jdbc:mysql://localhost:3306/dailydrip
-    username: root
-    password: 123456    filters: stat,wall,log4j # druid监控
-    dbcp2:      min-idle: 5 # 数据库最小连接数
-      initial-size: 5 # 初始化提供连接数
-      max-total: 10 # 最大连接数
-      max-wait-millis: 2000 # 等待连接获取的最大时间
+   port: 8081
+#   context-path: /imooc #配置context-path，一般来说，这个配置在生产发布时不配置
+# error:
+#   path: /error # 错误页面，指定发生错误是跳转的url
+   session-timeout: 1 #sessuib最大超过时间（分钟），默认30分钟
+#   address: 192.168.56.1
+   uri-encoding: UTF-8
+   basedir: D:/Develop/tomactlog/Dailydrip/ #tomcat存放日志、dump等文件的临时文件夹，默认为系统的tmp文件
+   access-log-enable: true #打开tomcat的access日志，并可以设置日志格式
+#   access-log-pattern: null
+   accesslog:
+      directory: D:/Develop/tomactlog/Dailydrip/ #accesslog的目录，默认为basedir/logs
+logging:
+   path: D:/Develop/tomactlog/Dailydrip/ #日志文件目录
+#   file: a.log #日志文件名称，默认为spring.log
 
-    
+
+spring:
+####################################################
+#
+#   devtools热部署配置
+#
+####################################################
+   devtools:
+      restart:
+         enable: true ##热部署生效
+         additional-path: srt/main/java ## 设置重启目录，添加那个目录的文件需要restart
+         exculde: static/** ## 排除那个目录文件不需要restart
+         
+         
+####################################################
+#
+#   thymeleaf 静态资源配置
+#
+####################################################
+   thymeleaf:
+      cache: true #关闭缓存，即时刷新。生产环境需要改为true
+      model: HTML5
+      prefix: classpath:/templates/
+      suffix: .html
+      encoding: UTF-8 
+      content-type: text/html
+####################################################
+#
+#   datasource 数据源操作类配置
+#
+####################################################   
+   datasource:
+      type: com.alibaba.druid.pool.DruidDataSource
+      driver-class-name: com.mysql.jdbc.Driver
+#    driver-class-name: org.gjt.mm.mysql.Driver
+      url: jdbc:mysql://localhost:3306/dailydrip
+      username: root
+      password: 123456
+      filters: stat,wall,log4j
+      dbcp2: # druid监控
+         min-idle: 5 # 数据库最小连接数
+         initial-size: 5 # 初始化提供连接数
+         max-total: 10 # 最大连接数
+         max-wait-millis: 2000 # 等待连接获取的最大时间
