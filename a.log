@@ -1,0 +1,271 @@
+2019-10-02 15:21:41.556  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:21:41.557  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:21:41.775  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:21:41.776  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:21:41.778  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:21:41.797  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:21:41.797  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 238 ms
+2019-10-02 15:21:41.855  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:21:41.880  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:21:41.898  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:21:41.915  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:21:41.917  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.38 seconds (JVM running for 764.302)
+2019-10-02 15:21:41.919  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:21:55.362  INFO 8424 --- [Thread-97] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:21:55.362  INFO 8424 --- [Thread-97] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:21:55.505  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:21:55.505  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:21:55.703  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:21:55.703  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:21:55.704  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:21:55.718  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:21:55.718  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 211 ms
+2019-10-02 15:21:55.777  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:21:55.795  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:21:55.808  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:21:55.824  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:21:55.826  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.346 seconds (JVM running for 778.21)
+2019-10-02 15:21:55.828  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:22:09.276  INFO 8424 --- [Thread-103] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:22:09.278  INFO 8424 --- [Thread-103] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:22:09.426  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:22:09.428  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:22:09.596  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:22:09.598  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:22:09.599  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:22:09.613  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:22:09.614  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 183 ms
+2019-10-02 15:22:09.671  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:22:09.693  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:22:09.708  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:22:09.731  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:22:09.732  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.326 seconds (JVM running for 792.117)
+2019-10-02 15:22:09.733  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:22:25.191  INFO 8424 --- [Thread-109] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:22:25.193  INFO 8424 --- [Thread-109] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:22:25.330  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:22:25.331  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:22:25.542  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:22:25.545  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:22:25.547  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:22:25.564  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:22:25.566  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 234 ms
+2019-10-02 15:22:25.634  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:22:25.656  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:22:25.668  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:22:25.684  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:22:25.685  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.37 seconds (JVM running for 808.069)
+2019-10-02 15:22:25.686  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:23:09.238  INFO 8424 --- [Thread-115] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:23:09.238  INFO 8424 --- [Thread-115] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:23:09.382  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:23:09.382  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:23:09.549  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:23:09.550  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:23:09.551  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:23:09.562  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:23:09.562  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 177 ms
+2019-10-02 15:23:09.608  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:23:09.630  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:23:09.643  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:23:09.662  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:23:09.663  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.307 seconds (JVM running for 852.048)
+2019-10-02 15:23:09.665  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:23:27.122  INFO 8424 --- [Thread-121] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:23:27.124  INFO 8424 --- [Thread-121] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:23:33.080  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:23:33.080  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:23:33.234  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:23:33.235  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:23:33.236  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:23:33.245  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:23:33.245  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 164 ms
+2019-10-02 15:23:33.292  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:23:33.312  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:23:33.325  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:23:33.343  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:23:33.343  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.28 seconds (JVM running for 875.728)
+2019-10-02 15:23:33.344  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:23:45.781  INFO 8424 --- [Thread-133] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:23:45.782  INFO 8424 --- [Thread-133] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:23:56.709  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:23:56.710  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:23:56.852  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:23:56.853  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:23:56.854  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:23:56.862  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:23:56.862  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 150 ms
+2019-10-02 15:23:56.916  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:23:56.941  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:23:56.956  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:23:56.976  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:23:56.976  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.286 seconds (JVM running for 899.361)
+2019-10-02 15:23:56.978  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:24:02.380  INFO 8424 --- [Thread-145] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:02.381  INFO 8424 --- [Thread-145] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:24:02.502 ERROR 8424 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:556) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadForFileExtension(ConfigFileApplicationListener.java:502) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:469) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$null$6(ConfigFileApplicationListener.java:450) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$7(ConfigFileApplicationListener.java:449) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:446) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:334) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.addPropertySources(ConfigFileApplicationListener.java:209) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.postProcessEnvironment(ConfigFileApplicationListener.java:192) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEnvironmentPreparedEvent(ConfigFileApplicationListener.java:179) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEvent(ConfigFileApplicationListener.java:165) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:75) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:347) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:306) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at com.Dailydrip.DailydripApplication.main(DailydripApplication.java:10) [classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 15, column 4:
+       path: D:/Develop/tomactlog/Daily ... 
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 16, column 5:
+        file: a.log #日志文件名称，默认为spring.log
+        ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:572) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:214) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:123) ~[snakeyaml-1.23.jar:na]
+	at org.yaml.snakeyaml.Yaml$1.next(Yaml.java:547) ~[snakeyaml-1.23.jar:na]
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:160) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:134) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.boot.env.OriginTrackedYamlLoader.load(OriginTrackedYamlLoader.java:75) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.env.YamlPropertySourceLoader.load(YamlPropertySourceLoader.java:50) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadDocuments(ConfigFileApplicationListener.java:574) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:528) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	... 28 common frames omitted
+
+2019-10-02 15:24:04.938  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:24:04.938  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:24:05.084  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:24:05.085  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:24:05.085  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:24:05.095  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:24:05.095  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 153 ms
+2019-10-02 15:24:05.144  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:05.162  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:24:05.174  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:24:05.189  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:24:05.190  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.271 seconds (JVM running for 907.574)
+2019-10-02 15:24:05.191  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:24:39.744  INFO 8424 --- [Thread-151] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:39.745  INFO 8424 --- [Thread-151] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:24:39.911  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:24:39.912  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:24:40.121  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:24:40.122  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:24:40.122  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:24:40.132  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:24:40.132  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 218 ms
+2019-10-02 15:24:40.182  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:40.202  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:24:40.213  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:24:40.234  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:24:40.235  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.343 seconds (JVM running for 942.619)
+2019-10-02 15:24:40.236  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:24:52.670  INFO 8424 --- [Thread-159] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:52.671  INFO 8424 --- [Thread-159] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:24:52.804  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:24:52.804  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:24:52.955  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:24:52.957  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:24:52.958  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:24:52.971  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:24:52.971  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 165 ms
+2019-10-02 15:24:53.023  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:53.045  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:24:53.057  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:24:53.073  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:24:53.073  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.287 seconds (JVM running for 955.458)
+2019-10-02 15:24:53.074  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:24:58.483  INFO 8424 --- [Thread-165] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:58.484  INFO 8424 --- [Thread-165] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:24:58.619  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:24:58.619  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:24:58.765  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:24:58.766  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:24:58.770  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:24:58.783  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:24:58.783  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 163 ms
+2019-10-02 15:24:58.832  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:24:58.853  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:24:58.864  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:24:58.880  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:24:58.880  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.279 seconds (JVM running for 961.264)
+2019-10-02 15:24:58.881  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:25:02.284  INFO 8424 --- [Thread-171] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:02.284  INFO 8424 --- [Thread-171] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:25:02.437  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:25:02.438  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:25:02.617  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:25:02.618  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:25:02.618  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:25:02.628  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:25:02.628  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 189 ms
+2019-10-02 15:25:02.671  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:02.687  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:25:02.697  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:25:02.715  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:25:02.716  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.298 seconds (JVM running for 965.1)
+2019-10-02 15:25:02.717  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:25:16.171  INFO 8424 --- [Thread-177] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:16.173  INFO 8424 --- [Thread-177] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:25:16.324  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:25:16.324  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:25:16.441  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:25:16.442  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:25:16.442  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:25:16.456  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:25:16.456  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 131 ms
+2019-10-02 15:25:16.490  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:16.503  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:25:16.514  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:25:16.528  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:25:16.529  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.237 seconds (JVM running for 978.914)
+2019-10-02 15:25:16.530  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:25:35.995  INFO 8424 --- [Thread-183] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:35.996  INFO 8424 --- [Thread-183] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2019-10-02 15:25:36.138  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Starting DailydripApplication on ECC-L0512 with PID 8424 (D:\Develop\eclipse-workspace\Dailydrip\target\classes started by ECClijw3 in D:\Develop\eclipse-workspace\Dailydrip)
+2019-10-02 15:25:36.138  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : No active profile set, falling back to default profiles: default
+2019-10-02 15:25:36.301  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-10-02 15:25:36.302  INFO 8424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-02 15:25:36.303  INFO 8424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-02 15:25:36.318  INFO 8424 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2019-10-02 15:25:36.320  INFO 8424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 181 ms
+2019-10-02 15:25:36.371  INFO 8424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:36.396  INFO 8424 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-02 15:25:36.411  INFO 8424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-10-02 15:25:36.426  INFO 8424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-10-02 15:25:36.430  INFO 8424 --- [restartedMain] com.Dailydrip.DailydripApplication       : Started DailydripApplication in 0.315 seconds (JVM running for 998.814)
+2019-10-02 15:25:36.433  INFO 8424 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-10-02 15:25:42.827  INFO 8424 --- [Thread-189] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-02 15:25:42.827  INFO 8424 --- [Thread-189] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
