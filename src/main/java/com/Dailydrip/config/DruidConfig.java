@@ -1,5 +1,8 @@
 package com.Dailydrip.config;
-
+/**
+ * homepage/druid  即可访问druid控制台
+ * 
+ */
 import javax.servlet.ServletRegistration;
 import javax.sql.DataSource;
 

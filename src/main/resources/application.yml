@@ -50,6 +50,13 @@ spring:
       content-type: text/html
 ####################################################
 #
+#   resources 静态资源配置   
+#
+####################################################   
+   resources:
+      static-locations: classpath:templates/,classpath:static/
+   ####################################################
+#
 #   datasource 数据源操作类配置
 #
 ####################################################   
@@ -66,3 +73,4 @@ spring:
          initial-size: 5 # 初始化提供连接数
          max-total: 10 # 最大连接数
          max-wait-millis: 2000 # 等待连接获取的最大时间
+
